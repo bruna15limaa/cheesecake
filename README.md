@@ -2,9 +2,10 @@
 :octocat:Sou apaixonada por resolver problemas utilizando a programação.
 Sou um FullStack Developer :computer:
 
+<a href="https://bruna15limaa.github.io/cheesecake/">Link do Projeto aqui </a>
 
   :rocket:  &nbsp; Estou trabalhando como freelancer
-  
+
   🔍 Explorando Meus Projetos Responsivos no GitHub! 🔍
 
 Dê uma olhada no meu GitHub, onde você encontrará projetos desenvolvidos com atenção especial à responsividade, utilizando medidas em rem para garantir uma experiência inclusiva em todos os dispositivos. Explore o código, contribua e compartilhe suas ideias! 📱💻✨
