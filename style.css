@@ -66,7 +66,9 @@ ul {
 }
 
 @media (min-width: 770px) {
+
     main {
+        padding: 9rem;
         flex-direction: row;
         max-width: fit-content;
         gap: 16rem;
@@ -79,5 +81,20 @@ ul {
     .ingredients {
         max-width: 52.5rem;
     }
+
+    h1, h2 {
+        font-size: 4rem;
+        line-height: 5rem;
+    }
+
+    p, li, strong {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
     
+    buttom {
+        padding: 1rem 2rem;
+        font-size: 1.4rem;
+        line-height: 2.4rem;
+    }
 }
