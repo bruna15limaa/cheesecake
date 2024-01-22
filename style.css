@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-smoothing: grayscale;
+}
+
+:root {
+    font-family: 'Source Serif 4';
+    font-weight: 300;
+}
+
+button {
+    font-family: 'Source serif 4';
+    font-weight: 500;
+}
